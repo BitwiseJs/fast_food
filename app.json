@@ -8,21 +8,18 @@
     "scheme": "fastfood",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/logo.png",
-        "backgroundColor": "#ffffff",
-        "package": "com.asrori.fastfood",
-        "versionCode": 1
+        "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true,
-      "package": "com.bitwisejs.fast_food"
+      "package": "com.asrori.fastfood",
+      "versionCode": 1,
+      "edgeToEdgeEnabled": true
     },
     "web": {
       "bundler": "metro",
@@ -34,7 +31,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/logo.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
@@ -47,7 +44,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "20a65a06-49ba-4c0a-94e2-a01dad69f477"
+        "projectId": "50e52b54-7a2f-4c96-83b7-ef02737af885"
       }
     }
   }

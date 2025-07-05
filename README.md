@@ -1,50 +1,59 @@
-# Welcome to your Expo app 👋
+# 🍔 FastFood App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplikasi pemesanan makanan cepat saji berbasis React Native + Expo.  
+Versi awal ini hadir dengan tampilan sederhana dan beberapa fitur utama yang siap kamu coba!
 
-## Get started
+## 🚀 Versi 1.0.0 - Rilis Awal
 
-1. Install dependencies
+🎉 Aplikasi FastFood sekarang sudah bisa diunduh untuk Android!
 
-   ```bash
-   npm install
-   ```
+### ✨ Fitur Utama:
 
-2. Start the app
+- 🔐 Login dengan Google
+- 🔎 Pencarian makanan cepat
+- 🛒 Keranjang pesanan
+- 🧭 Navigasi lancar antar halaman
+- 🎨 UI clean dengan Tailwind CSS
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 📦 Download APK
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+👉 [Unduh FastFood v1.0.0 (APK)](https://expo.dev/artifacts/eas/eBJjwLA4AKbmCKKDxJcXE2.apk)  
+_Install secara manual di perangkat Android._
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📋 Catatan:
 
-When you're ready, run:
+- Aplikasi masih dalam tahap awal (beta)
+- Silakan laporkan bug atau masukan di halaman Issues
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🔧 Teknologi yang Digunakan:
 
-## Learn more
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS (via NativeWind)](https://www.nativewind.dev/)
+- [EAS Build](https://docs.expo.dev/eas/)
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🤝 Kontribusi
 
-## Join the community
+Ingin bantu? Pull request dan feedback sangat kami hargai 🙌
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 📱 Screenshot (opsional)
+
+_Tambahkan screenshot tampilan utama aplikasimu di sini_
+
+---
+
+## 📍 Kontak
+
+[GitHub Issues](https://github.com/BiteiseJs/fast_food/issues)  
+Email: mohfauzanasrori@gmail.com
