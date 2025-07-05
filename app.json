@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "FastFood",
+    "name": "Fast Food",
     "slug": "fast_food",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,7 +17,7 @@
         "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.asrori.fastfood",
+      "package": "com.bitwisejs.foodorder",
       "versionCode": 1,
       "edgeToEdgeEnabled": true
     },
@@ -40,12 +40,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "50e52b54-7a2f-4c96-83b7-ef02737af885"
-      }
     }
   }
 }
