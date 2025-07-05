@@ -55,5 +55,5 @@ _Tambahkan screenshot tampilan utama aplikasimu di sini_
 
 ## 📍 Kontak
 
-[GitHub Issues](https://github.com/BiteiseJs/fast_food/issues)  
+[GitHub Issues](https://github.com/BitwiseJs/fast_food/issues)  
 Email: mohfauzanasrori@gmail.com
