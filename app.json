@@ -1,14 +1,16 @@
 {
   "expo": {
-    "name": "Fast Food",
-    "slug": "fast_food",
+    "name": "Food Order",
+    "slug": "food_order",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
-    "scheme": "fastfood",
+    "scheme": "foodorder",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -35,6 +37,14 @@
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
+        }
+      ],
+      [
+        "@sentry/react-native/expo",
+        {
+          "url": "https://sentry.io/",
+          "project": "react-native-food-order",
+          "organization": "bitwisejs"
         }
       ]
     ],
