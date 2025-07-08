@@ -47,9 +47,11 @@ Ingin bantu? Pull request dan feedback sangat kami hargai 🙌
 
 ---
 
-## 📱 Screenshot (opsional)
+## Screenshot
 
-_Tambahkan screenshot tampilan utama aplikasimu di sini_
+<div align="center">
+  <img src="assets/readme/home.jpeg" alt="Project Banner" height="400">
+</div>
 
 ---
 
